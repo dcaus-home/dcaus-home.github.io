@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+2
+<html lang="en">
+3
+<head>
+4
+<meta charset="UTF-8">
+5
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+6
+<script src="https://kit.fontawesome.com/a71707a89a.js" crossorigin="anonymous"></script>
+7
+<link rel="stylesheet" href="./popup.css"/>
+8
+<title>Popup Box</title>
+9
+</head>
+10
+<body>
+11
+<div id="popUpOverlay"></div>
+12
+<div id="popUpBox">
+13
+<div id="box">
+14
+<i class="fas fa-check-circle fa-5x"></i>
+15
+<h1>Here Goes Your Popup</h1>
+16
+<div id="closeModal"></div>
+17
+</div>
+18
+</div>
+19
+<button onclick="Alert.render('You look very pretty today.')" class="btn">Show Alert</button>
+20
+<script src="./app.js"></script>
+21
+</body>
+22
+</html>
