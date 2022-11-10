@@ -35,3 +35,6 @@ button {
 button:hover {
     opacity: 1;
 }
+footer {
+  display: block;
+}
