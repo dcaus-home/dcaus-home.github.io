@@ -36,7 +36,7 @@
 19
 <button onclick="Alert.render('You look very pretty today.')" class="btn">Show Alert</button>
 20
-<script src="./app.js"></script>
+<script src="./popup.js"></script>
 21
 </body>
 22
