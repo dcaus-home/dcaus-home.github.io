@@ -16,7 +16,7 @@ requestButton.onclick = function() {
 showButton.onclick = function() {
     Push.create("Cloudflare.com May be down in your area.", {
         body: "Cloudflare.com is a Key Component in this website",
-        icon: "cloudflare.webp",
+        icon: "cloudflare-logo.webp",
         timeout: 1000,
         onClick: function() {
             console.log(this);
