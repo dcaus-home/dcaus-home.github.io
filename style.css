@@ -316,7 +316,7 @@ footer {
 /* The alert message box */
 .alert {
   padding: 20px;
-  background-color: #4169E1; /* Color */
+  background-color: #ffe500; /* Color */
   color: white;
   margin-bottom: 15px;
 }
