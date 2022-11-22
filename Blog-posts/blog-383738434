@@ -1,0 +1,43 @@
+<div class="article-body"><p class="callout"><span class="emojiContainer-2XKwXX"><strong>⚠️ Please do not run unknown .exe files on your computers!</strong> Please exercise caution when pursuing the badge! Running unknown executables on your computer is dangerous. There are safer, more fun ways to acquire the badge, see <a href="#12558cc2-aad8-4894-872a-e0fa0a6d8044" target="_self">below</a>.</span></p>
+ 
+<div class="page-body">
+<ul id="da2c25fb-9954-4740-887f-12dcad25da40" class="bulleted-list"></ul>
+<h2 id="3c45ef65-2675-484b-a4bb-c1ecea19b8f2" class="">WHAT IS THE ACTIVE DEVELOPER BADGE?</h2>
+<div id="9846d342-36e2-439f-980e-23185ca4fcb7" class="column-list">
+<div id="4ed56717-7be1-49fa-9df5-0c5958444de5" class="column">
+<p id="fb13650e-9a8a-43d1-87c9-5120fb197827" class="">We want to acknowledge the hard work and creativity of our developer community, and that's<span>&nbsp;why we're offering a brand new badge for all Developers!</span></p>
+<p class=""><span><img src="https://support-dev.discord.com/hc/article_attachments/10226714575639" alt="phibireplaced.png"></span></p>
+<h2 id="h_01GHW0K8D4MR19TG7BN0SZM7R0"><span>AM I ELIGIBLE?</span></h2>
+</div>
+</div>
+<p id="8592e396-62ef-4433-a369-f436d9cec389" class="">The Active Developer Badge is available to any <span class="notion-enable-hover">d</span>eveloper that owns at least one <span class="notion-enable-hover">a</span>ctive <span class="notion-enable-hover">a</span>pplication (app), verified and unverified, alike!</p>
+<p class="">For your app to be considered active, it will need to have executed an <a href="https://discord.com/developers/docs/interactions/application-commands" target="_self">application command</a> in the last 30 days.&nbsp;</p>
+<p id="bdd07f42-4bf2-4437-b7b0-cb0ae4bad0df" class="">Don't have an active app yet? You can create one, <a href="https://discord.com/developers/applications">here</a>!</p>
+<h2 id="12558cc2-aad8-4894-872a-e0fa0a6d8044" class="">WHERE DO I GET ONE?</h2>
+<p id="0957bfce-cf6a-4410-8a59-0239b08a0cb9" class="">If you have an active app, head to the <a href="https://discord.com/developers/active-developer" target="_blank" rel="noopener noreferrer">Developer Portal</a> to grab your badge! There, you should find a prompt to join the Active Developer Program and claim your badge, by following these steps:</p>
+<ul>
+<li><a href="#70ebf968-173e-4ffb-86d5-2e417eeb20a4" target="_self">SELECT AN ACTIVE APP</a></li>
+<li><a href="#h_01GHW11D9TAXKM9YVATV2P63BX" target="_self">DESIGNATE A COMMUNITY SERVER</a></li>
+<li><a href="#h_01GHW11VRTNAYAMAATV3MEB4VH" target="_self">CHOOSE A DEVELOPER NEWS CHANNEL</a></li>
+</ul>
+<h3 id="70ebf968-173e-4ffb-86d5-2e417eeb20a4" class="wysiwyg-indent1">SELECT AN ACTIVE APP</h3>
+<p id="7d2c9e6e-0363-4075-9a33-8a48a593e98a" class="wysiwyg-indent1">First, select an app from the dropdown (this is the app that we will check is 'Active'). You will want this to be your most active app, but it can be any app as long as it has received a command within the past 30 days.</p>
+<h3 id="h_01GHW11D9TAXKM9YVATV2P63BX" class="wysiwyg-indent1">DESIGNATE A COMMUNITY SERVER</h3>
+<p id="77103cd7-19c3-47a6-9ec9-1f9e01ef05d1" class="wysiwyg-indent1">Next, designate your official server for your app (for example, your App Support Server, App Community Server or App Development Server).</p>
+<p class="wysiwyg-indent1">If you don't see any servers in the Support Server list, make sure the one you are looking for is set as a Community Server. Here is more information on how to <a href="https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server" target="_self">enable the community feature</a>.</p>
+<h3 id="h_01GHW11VRTNAYAMAATV3MEB4VH" class="wysiwyg-indent1">CHOOSE A DEVELOPER NEWS CHANNEL</h3>
+<p class="wysiwyg-indent1">Finally, select the channel within the designated server for the Developer News channel to appear in. This will allow for updates about Discord API and Developer News to be sent right to your server's channel.</p>
+<p id="eafec787-09b0-425e-bf6a-84805c27f107" class="wysiwyg-indent1">Once these steps are complete, you should see your new Active Developer Badge on your Profile! <strong>Congratulations!</strong></p>
+<p class="wysiwyg-indent1"><img src="https://support-dev.discord.com/hc/article_attachments/10113142990487" alt="Badge_Confirm.png"></p>
+<h2 id="h_01GHHJQAQXHCKHPT7T737K1KJM">WHAT IF I AM ON A DEVELOPER TEAM?</h2>
+<p class="">Good news! As long as the team you are on owns an active app, you can obtain the Active Developer Badge by following the steps <a href="#12558cc2-aad8-4894-872a-e0fa0a6d8044" target="_self">above</a>.</p>
+<h2 id="h_01GHMJFS8G42F0WZGJH766H27B">I HAVE AN ACTIVE APP, BUT IT SAYS I AM NOT ELIGIBLE</h2>
+<p id="7731b8fd-78e8-4fc3-8e55-ddea485ac930" class="">If you have an active app and feel you should be eligible for the Active Developer Badge, please allow at least 24 hours for your app's activity status to be updated.</p>
+<h2>I CLAIMED MY BADGE, BUT I DON'T HAVE IT</h2>
+<p>If you successfully claimed your Active Developer Badge, but you don't see it on your Profile, try restarting/refreshing your client.</p>
+<p class="callout">⚠️ If you are on a mobile device, check back for mobile support of this feature coming in early December! In the meantime you can view your new badge from Web and Desktop clients.</p>
+<p class="">&nbsp;</p>
+<h4 id="5f781441-6a7c-4a1b-94a4-2c0cd2b1db3b">If you have any further questions please <a href="https://dis.gd/developer-support" target="_blank" rel="noopener noreferrer">contact Developer Support</a>.</h4>
+<p id="946dc58f-fec0-410b-9e2c-0032fa6231a3" class="">&nbsp;</p>
+</div>
+ </div>
