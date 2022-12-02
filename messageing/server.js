@@ -28,6 +28,21 @@ app.get('/token', (req, res) => {
   } else {
     res.status(401).json({ message: 'invalid request', status: 'error' });
   }
+});import { StreamChat } from 'stream-chat';
+
+// client-side you initialize the Chat client with your API key
+const chatClient = StreamChat.getInstance('8drx4ww3gjsx', {
+    timeout: 6000,
 });
+await chatClient.connectUser(
+    {
+        id: 'john',
+        name: 'John Doe',
+        image: 'https://getstream.io/random_svg/?name=John',
+    },
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZ3JlZW4taGF0LTYifQ.jqyFV7ReNfVtllMYdDSouBX7kunsaYMuL3t_GW6-01s',
+);
+await chatClient.disconnectUser();
+
 
 // [...]
