@@ -1,6 +1,4 @@
 google-site-verification=NhXnFVwEeDPx4LGmT6PCGxjrPKYrRd2XsTdEtw78B3E
-seth.ns.cloudflare.com
-jen.ns.cloudflare.com
 type = CNAME
 name = www
 value = username.github.io.
