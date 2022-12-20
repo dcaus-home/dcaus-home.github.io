@@ -1,0 +1,44 @@
+:root {
+    --discord-white: #fff;
+    --discord-black: #36393f;
+    --discord-grey: #2f3136;
+    --discord-grey-light: #282b30;
+    --discord-grey-dark: #23272a;
+    --discord-navy: #7289da;
+    --discord-navy-light: #8f9bc6;
+    --discord-navy-dark: #4b6584;
+    --discord-blue: #4e9ddf;
+    --discord-blue-light: #69a3e3;
+    --discord-blue-dark: #2f6b9e;
+    --discord-purple: #9933cc;
+    --discord-purple-light: #a85ece;
+    --discord-purple-dark: #6a2a9b;
+    --discord-pink: #fe3da9;
+    --discord-pink-light: #fe6dc8;
+    --discord-pink-dark: #c90c73;
+    --discord-red: #f04747;
+    --discord-red-light: #f06b6b;
+    --discord-red-dark: #b53434;
+    --discord-orange: #faa61a;
+    --discord-orange-light: #fac26b;
+    --discord-orange-dark: #ba7c2e;
+    --discord-yellow: #fff468;
+    --discord-yellow-light: #fff78c;
+    --discord-yellow-dark: #c9a137;
+    --discord-green: #43b581;
+    --discord-green-light: #64c29f;
+    --discord-green-dark: #2c6a4a;
+    --discord-teal: #00c2a0;
+    --discord-teal-light: #33d1c6;
+    --discord-teal-dark: #00897b;
+}
+
+/* Apply the Discord colors to various elements */
+
+body {
+    background-color: var(--discord-grey);
+    color: var(--discord-white);
+}
+
+a {
+    color: var(--discord-navy);
